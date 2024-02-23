@@ -12,7 +12,7 @@ const Container = styled.div`
 export default function Header() {
     return (
         <Container>
-            <h1>FOOTER</h1>
+            <h1>Footer</h1>
         </Container>
     )
 }
